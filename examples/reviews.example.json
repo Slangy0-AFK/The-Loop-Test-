@@ -1,0 +1,16 @@
+{
+  "reviews": [
+    {
+      "satisfied_rules": [1, 2, 3, 10],
+      "escape_rule_ids": [],
+      "restricted_moves": ["Use P3 and P6 directly to derive saved and not saved for one human"],
+      "meta_reference": false
+    },
+    {
+      "satisfied_rules": [1, 2, 3],
+      "escape_rule_ids": [],
+      "restricted_moves": ["Repeat the same proof wording from the previous round"],
+      "meta_reference": false
+    }
+  ]
+}
